@@ -1,0 +1,11 @@
+C:\Users\Карим\source\repos\CLOCK\bin\Debug\CLOCK.exe.config
+C:\Users\Карим\source\repos\CLOCK\bin\Debug\CLOCK.exe
+C:\Users\Карим\source\repos\CLOCK\bin\Debug\CLOCK.pdb
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.csproj.AssemblyReference.cache
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.Form1.resources
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.Form2.resources
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.Properties.Resources.resources
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.csproj.CoreCompileInputs.cache
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.exe
+C:\Users\Карим\source\repos\CLOCK\obj\Debug\CLOCK.pdb
